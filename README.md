@@ -5,11 +5,12 @@ Data Analyst | Data Engineer
 My name is Bisola Abdulsalam, an Analytical and forward-thinking Data Analyst with a passion for technology, innovation, and solving real-world problems. Experienced in data cleaning, visualization, statistical analysis, and building impactful dashboards to support data-driven decision-making. Skilled in collaborating with cross-functional teams to translate business needs into actionable BI solutions. Proficient in Microsoft Excel, Power BI, Tableau, SQL, and Python and . Currently immersed in building real-world ETL pipelines, wrangling datasets, and deploying cloud-based solutions. Eager to leverage analytical skills to optimize reporting systems, drive innovation, and grow within a collaborative, data-driven environment.
 
 ## Skills 🛠️
-- Data Analytics & Visualization: ...
-   Power BI ...
-   Excel (Pivot Tables, VBA, Power Query, Charts, Power Pivot) ...
-   Database  (PostgreSQL, Microsoft SQL Server, SQLite, MySQL) ...
-   Python (pandas, NumPy, matplotlib) ...
+- 📊 **Data Analytics & Visualization**: Power BI, Tableau  
+- 📚 **Spreadsheets**: Microsoft Excel (Pivot Tables, VBA, Power Query, Charts, Power Pivot), Google Sheets  
+- 🗄️ **Databases**: PostgreSQL, Microsoft SQL Server, SQLite, MySQL  
+- 💻 **Programming**: Python (pandas, NumPy, matplotlib), R (RStudio)
+
+
 
 Soft Skills:
 Problem-solving & critical thinking
