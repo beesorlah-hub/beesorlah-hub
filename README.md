@@ -6,6 +6,7 @@ My name is Bisola Abdulsalam, an Analytical and forward-thinking Data Analyst wi
 
 ## Skills 🛠️
   **Technical Skills**
+  
     - 📊 **Data Analytics & Visualization**: Power BI, Tableau  
     - 📚 **Spreadsheets**: Microsoft Excel (Pivot Tables, VBA, Power Query, Charts, Power Pivot), Google Sheets  
     - 🗄️ **Databases**: PostgreSQL, Microsoft SQL Server, SQLite, MySQL  
@@ -14,6 +15,7 @@ My name is Bisola Abdulsalam, an Analytical and forward-thinking Data Analyst wi
 
 
   **Soft Skills 🤝**
+  
     - 🧠 Problem-solving & Critical Thinking  
     - 💼 Business Acumen & Domain Knowledge  
     - 📈 Storytelling with Data  
