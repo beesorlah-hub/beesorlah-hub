@@ -13,7 +13,7 @@ My name is Bisola Abdulsalam, an Analytical and forward-thinking Data Analyst wi
 
 
 
-  **Soft Skills 🤝**:
+  **Soft Skills 🤝**
     - 🧠 Problem-solving & Critical Thinking  
     - 💼 Business Acumen & Domain Knowledge  
     - 📈 Storytelling with Data  
