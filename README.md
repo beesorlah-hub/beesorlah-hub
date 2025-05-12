@@ -28,7 +28,7 @@ My name is Bisola Abdulsalam, an Analytical and forward-thinking Data Analyst wi
 - 📧 Email: [bisolah.adams@gmail.com](mailto:bisolah.adams@gmail.com)  
 - 💼 LinkedIn: [Bisola Abdulsalam](https://www.linkedin.com/in/bisola-abdulsalam/)
 
-- ⚡ Fun fact: ...
+## ⚡ Fun fact: ...
 
 <!--
 **beesorlah-hub/beesorlah-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
