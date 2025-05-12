@@ -20,6 +20,8 @@ My name is Bisola Abdulsalam, an Analytical and forward-thinking Data Analyst wi
     - 💼 Business Acumen & Domain Knowledge  
     - 📈 Storytelling with Data  
     - 🔄 Adaptability
+    - ⏲️ Time Management
+    - 👥 Team Representative
 
 
 
