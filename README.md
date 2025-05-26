@@ -26,7 +26,7 @@ My name is Bisola Adams, an Analytical and forward-thinking Data Analyst with a 
 ## 📫 Contact Me
 
 - 📧 Email: [bisolah.adams@gmail.com](mailto:bisolah.adams@gmail.com)  
-- 💼 LinkedIn: [Bisola Abdulsalam](https://www.linkedin.com/in/bisola-abdulsalam/)
+- 💼 LinkedIn: [Bisola Adams](https://www.linkedin.com/in/bisola-abdulsalam/)
 
 ## ⚡ Fun fact: ...
 
